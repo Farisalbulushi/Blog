@@ -1,0 +1,41 @@
+.quote{
+color: green;
+margin:1rem;
+padding: 1rem;
+text-align:center;
+}
+h1{
+padding:1rem;
+text-transform: capitalize;
+color: red;
+}
+img{
+margin:0;
+}
+h4{
+font-weight: normal;
+}
+.latest-blogs{
+text-align:center;
+color: #69A2B0;
+text-transform: capitalize;
+margin-bottom: 1rem;
+}
+.elephant-blog{
+color: #857E7B;
+}
+.duck-blog{
+color: #345995;
+}
+.tiger-blog{
+color:orange;
+}
+.title{
+margin:1rem;
+}
+figure{
+margin: 1rem;
+}
+figcaption{
+opacity: 0.6;
+}
